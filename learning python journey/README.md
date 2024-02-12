@@ -16,11 +16,12 @@ This folder is dedicated to documenting my progress in mastering Python, ranging
 
 ## Projects List
 1. **Basic Python Shopping Bill Calculator**
-   Description:
+
+Description:
 This Python project serves as a basic shopping bill calculator to practice fundamental programming concepts.
 It allows users to input the price of items and calculates the total bill.
 If the user inputs 'q', it finalizes the bill, provides change if necessary, and ends the transaction.
- This project is ideal for beginners looking to strengthen their Python skills and understanding of basic arithmetic operations.
+This project is ideal for beginners looking to strengthen their Python skills and understanding of basic arithmetic operations.
 
 Problem Statement:
 Create a Python program that acts as a simple shopping bill calculator. 
