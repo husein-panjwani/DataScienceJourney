@@ -1,35 +1,20 @@
-Problem Statement:
-Create a Python program that acts as a simple shopping bill calculator. The program should prompt the user to enter the price of each item and keep a running total of the bill. 
-When the user inputs 'q', the program should finalize the bill, ask for the amount of money the customer gave, and calculate the change if necessary. Ensure error handling for incorrect inputs.
+# Data Science Learning Journey
 
-Readme File:
+Welcome to my Data Science Learning Repository! 🌐📊
 
-Basic Python Shopping Bill Calculator
-Introduction
-This Python project serves as a basic shopping bill calculator to practice fundamental programming concepts. 
-It allows users to input the price of items and calculates the total bill. 
-If the user inputs 'q', it finalizes the bill, provides change if necessary, and ends the transaction. 
-This project is ideal for beginners looking to strengthen their Python skills and understanding of basic arithmetic operations.
+## Introduction
+I'm on an exciting journey to learn and master the art of data science. This repository serves as a centralized hub where I'll share my progress, projects, and insights. Join me as I navigate through various stages of learning, starting with brushing up my Python skills.
 
-How to Use
-Run the Python script.
-Enter the price of each item when prompted.
-To finalize the bill, enter 'q' when prompted for the price of an item.
-Enter the amount of money the customer gave.
-The program will calculate and display the change.
+## Current Focus: Python Mastery
+Currently, I'm immersed in enhancing my Python proficiency. From simple to advanced concepts, I'm tackling coding challenges and real-world projects to solidify my foundation. Expect to see a variety of Python-related content, including code snippets, mini-projects, and more.
 
-        Example
-        Enter price of item no 1:
-        10
-        Your bill total is 10
-        Enter price of item no 2:
-        15
-        Your bill total is 25
-        Enter price of item no 3:
-        q
-        Your bill total is : 25
-        Thanks for shopping
-        Enter the money customer gave you: 50
-        Return: 25
-Dependencies
-No external dependencies are required to run this program.
+## Future Plans
+Once I've mastered Python, I'll be leveling up my learning by diving into more advanced and complex topics within the realm of data science. From data analysis to machine learning, I'll document my journey and share my discoveries with you.
+
+## Stay Updated
+Feel free to explore the repository, check out my code, and provide feedback. I'm open to collaboration and learning from the community. Together, let's make this learning journey vibrant and interactive!
+
+Keep an eye on this space for regular updates on my data science exploration. 🚀💻
+
+Happy Coding!
+Mohamed Husein Panjwani
