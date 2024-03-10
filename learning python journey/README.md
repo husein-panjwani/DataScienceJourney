@@ -35,7 +35,7 @@ This folder is dedicated to documenting my progress in mastering Python, ranging
    This Python script implements a console-based Rock-Paper-Scissors game. Players can choose between Stone (s), Paper (p), or Scissors (x), and the computer randomly selects its move. The game logic determines the winner, and the result is displayed to the player.
 
    Usage:
-   To play the game, execute the `rps_game.py` script and follow the on-screen instructions.
+   To play the game, execute the `stone_paper_sissor_game.py` script and follow the on-screen instructions.
 
    Contribution:
    Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
