@@ -17,18 +17,28 @@ This folder is dedicated to documenting my progress in mastering Python, ranging
 ## Projects List
 1. **Basic Python Shopping Bill Calculator**
 
-Description:
-This Python project serves as a basic shopping bill calculator to practice fundamental programming concepts.
-It allows users to input the price of items and calculates the total bill.
-If the user inputs 'q', it finalizes the bill, provides change if necessary, and ends the transaction.
-This project is ideal for beginners looking to strengthen their Python skills and understanding of basic arithmetic operations.
+   Description:
+   This Python project serves as a basic shopping bill calculator to practice fundamental programming concepts.
+   It allows users to input the price of items and calculates the total bill.
+   If the user inputs 'q', it finalizes the bill, provides change if necessary, and ends the transaction.
+   This project is ideal for beginners looking to strengthen their Python skills and understanding of basic arithmetic operations.
 
-Problem Statement:
-Create a Python program that acts as a simple shopping bill calculator. 
-The program should prompt the user to enter the price of each item and keep a running total of the bill.
-When the user inputs 'q', the program should finalize the bill, ask for the amount of money the customer gave, and calculate the change if necessary. 
-Ensure error handling for incorrect inputs.
+   Problem Statement:
+   Create a Python program that acts as a simple shopping bill calculator. 
+   The program should prompt the user to enter the price of each item and keep a running total of the bill.
+   When the user inputs 'q', the program should finalize the bill, ask for the amount of money the customer gave, and calculate the change if necessary. 
+   Ensure error handling for incorrect inputs.
 
+2. **Rock-Paper-Scissors Game**
+
+   Description:
+   This Python script implements a console-based Rock-Paper-Scissors game. Players can choose between Stone (s), Paper (p), or Scissors (x), and the computer randomly selects its move. The game logic determines the winner, and the result is displayed to the player.
+
+   Usage:
+   To play the game, execute the `rps_game.py` script and follow the on-screen instructions.
+
+   Contribution:
+   Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
 
 ## Contribution
 If you have ideas for improvement, bug fixes, or would like to collaborate on a project, feel free to create an issue or submit a pull request. I welcome contributions from the community to enhance the quality of these Python projects.
